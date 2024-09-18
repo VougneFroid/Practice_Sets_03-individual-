@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Von\\source\\repos\\PracticeSets_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AB105B-58A5-40A0-BE02-3300BBE6EA9E}|PracticeSets03_1\\PracticeSets03_1.csproj|c:\\users\\von\\source\\repos\\practicesets_03\\practicesets03_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AB105B-58A5-40A0-BE02-3300BBE6EA9E}|PracticeSets03_1\\PracticeSets03_1.csproj|solutionrelative:practicesets03_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59BC665A-30E5-4C71-A449-711C4E6C32D0}|PracticeSets03_02\\PracticeSets03_02.csproj|C:\\Users\\Von\\source\\repos\\PracticeSets_03\\practicesets03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BC665A-30E5-4C71-A449-711C4E6C32D0}|PracticeSets03_02\\PracticeSets03_02.csproj|solutionrelative:practicesets03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Von\\source\\repos\\PracticeSets_03\\PracticeSets03_02\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeSets03_02\\Program.cs",
+              "ToolTip": "C:\\Users\\Von\\source\\repos\\PracticeSets_03\\PracticeSets03_02\\Program.cs",
+              "RelativeToolTip": "PracticeSets03_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:11:11.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Von\\source\\repos\\PracticeSets_03\\PracticeSets03_1\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeSets03_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Von\\source\\repos\\PracticeSets_03\\PracticeSets03_1\\Program.cs",
+              "RelativeToolTip": "PracticeSets03_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:09:33.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
