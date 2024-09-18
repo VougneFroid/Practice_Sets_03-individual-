@@ -22,7 +22,7 @@ namespace Leap_Year
 
         static bool IsLeapYear(int year)
         {
-            if (year % 100 == 0 || year % 4 == 0)
+            if ((year % 4 == 0 && year % 100 != 0) || (year % 4 == 0))
             {
                 return true;
             }
